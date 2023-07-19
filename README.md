@@ -1,8 +1,6 @@
 Farnoosh Moayeri
 ========================================================================================================================================
 Full-stack developer, eager to tackle new challenges and stay up-to-date with the latest technologies.
-
-* 🌍  I'm based in London
 * ✉️  You can contact me at [farnooshmoayeri@gmail.com](mailto:farnooshmoayeri@gmail.com)
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
