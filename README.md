@@ -1,5 +1,6 @@
-Farnoosh Moayeri
-========================================================================================================================================
+<h1 align="center">Hi, My name is
+Farnoosh Moayeri </h1>
+
 A software developer, eager to tackle new challenges and stay up-to-date with the latest technologies.
 * ✉️  You can contact me at [farnooshmoayeri@gmail.com](mailto:farnooshmoayeri@gmail.com)
 <p align="left">
