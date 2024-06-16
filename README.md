@@ -3,8 +3,10 @@ Farnoosh Moayeri </h1>
 
 A software developer, eager to tackle new challenges and stay up-to-date with the latest technologies.
 * ✉️  You can contact me at [farnooshmoayeri@gmail.com](mailto:farnooshmoayeri@gmail.com)
+* ☁️ I am learning Cloud at the moment!
+
 <p align="left">
-<p>Langueges and tools: </p>
+<p>Languages and tools: </p>
 <div align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -20,4 +22,3 @@ A software developer, eager to tackle new challenges and stay up-to-date with th
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
-
