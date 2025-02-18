@@ -3,7 +3,7 @@ Farnoosh Moayeri </h1>
 
 A software developer, eager to tackle new challenges and stay up-to-date with the latest technologies.
 * ✉️  You can contact me at [farnooshmoayeri@gmail.com](mailto:farnooshmoayeri@gmail.com)
-* ☁️ I am learning Cloud at the moment!
+
 
 <p align="left">
 <p>Languages and tools: </p>
