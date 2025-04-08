@@ -1,5 +1,5 @@
 <h1 align="center">Hi, My name is
-Farnoosh Moayeri </h1>
+Farnoosh </h1>
 
 A software developer, eager to tackle new challenges and stay up-to-date with the latest technologies.
 
